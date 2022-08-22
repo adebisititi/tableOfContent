@@ -118,7 +118,7 @@ main{
         header h2 {
             font-size: 11px;
             padding: 3% 5%;
-            width: 80%;
+            width: 90%;
             text-align: center;
         }
     
@@ -161,7 +161,7 @@ main{
         #while h2,
         #Function h2,
         #Reference h2 {
-            font-size: 12px;
+            font-size: 11px;
             margin-top: 2%;
             margin-bottom: 2%;
         }
