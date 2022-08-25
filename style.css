@@ -110,8 +110,9 @@ main{
     
         header {
             width: 25%;
+            height: 100vh;
             padding: 10px, 20px;
-            position: static;
+            position: fixed;
             border-right: 1px solid rgb(146, 145, 145);
         }
     
@@ -144,7 +145,7 @@ main{
         main {
             width: 75%;
             padding: 8% 4%;
-            margin-left: 0%;
+            margin-left: 25%;
         }
     
         #intro h2,
